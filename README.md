@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="150" width="150" src="https://i.picasion.com/pic92/49fa5e6d8ba88060f3506fcfdd36614b.gif">
+  <img align="right" height="150" width="150" src="https://i.picasion.com/pic92/43c5d21b7774bb4a3dae9b6c8e22d7fb.gif">
 </div>
 
 ##
