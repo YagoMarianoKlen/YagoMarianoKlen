@@ -3,8 +3,6 @@
 
 - 💼 Atualmente trabalho como comprador
 - 💻 Estudando Sistemas de Informação na FeMASS
-- 📫 Contate-me no e-mail: yagomarianoklen@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/yago-klen-449a60170
 
 <div align="center">
   <a href="https://github.com/YagoMarianoKlen">
@@ -29,5 +27,5 @@
 </div>
 
 <div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/YagoMarianoKlen/YagoMarianoKlen/blob/output/github-contribution-grid-snake.svg)
 </div>
